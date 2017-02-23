@@ -1,7 +1,9 @@
 # initpoly
 Nethack 3.6.0 initpoly patch
 
-This patch allows one to select a non-default form when starting the game. With all the benefits and drawbacks that comes with.
+Idea from r.g.r.n, implemented by bd (from r.g.r.n), ported to 3.6.0 by BugsBunnySan.
+
+This patch allows one to select a non-default form when starting the game. With all the benefits and drawbacks that comes with. This form does not time out, rhater, it becomes your normal form.
 
 You can also 'grow up', ala baby dragon -> dragon, or kitten -> housecat.This works both on your true form and a polymorphed form, even both at once.
 
