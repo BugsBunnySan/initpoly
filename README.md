@@ -9,6 +9,9 @@ You can also 'grow up', ala baby dragon -> dragon, or kitten -> housecat.This wo
 
 You can, of course, still polyself into another form later in the game.
 
+Apply the patch to the nethack 3.6.0 sources, by being in the nethack-3.6.0/ directory and running
+#>patch -p1 < /path/to/initpoly-3.6.0.patch
+
 3.4.1 patch retrieved via the wayback machine (web.archive.org), originaly from:
 http://bd-home-comp.no-ip.org/initpoly
 and ported to 3.6.0
